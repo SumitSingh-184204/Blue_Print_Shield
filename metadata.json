@@ -1,0 +1,6 @@
+{
+  "name": "Blueprint Shield",
+  "description": "Secure portal for developers to design, simulate threat vectors, and synthesize interactive 2D blueprint canvases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
